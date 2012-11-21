@@ -36,6 +36,6 @@ Don’t hesitate to specify alternative source type in case of your visitors bro
 
 **In downloads you can find a build version of videojs integrating this wrapper.**
 
-But you still need to download DASHR sources and specify to videojs with DASHR_API where it is located like it is said how to be used
+But you still need to download DASHR sources (https://github.com/ISIA-DASHR/DASHR-API) and specify to videojs with DASHR_API where it is located like it is said how to be used
 
 Exemple in action on : [http://dashr.option-isia-ecp.fr/](http://dashr.option-isia-ecp.fr/ "http://dashr.option-isia-ecp.fr/")

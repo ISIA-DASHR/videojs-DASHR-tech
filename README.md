@@ -27,7 +27,7 @@ Options to specify in data-setup :
 
 - **techOrder** : used to tell videojs in which order and what playback technologies to use, be sure to add axthima to enable DASH playback.
 
-- **DASHR_API**, where is the DASHR api located.  
+- **DASHR_API**, where is the DASHR api located.
 
 
 - **preselected_tracks** (optionnal) : It’s used to tell DASHR with which tracks to start the playing. To come : it will be possible to choose with an attribute such as language
@@ -35,5 +35,7 @@ Options to specify in data-setup :
 Don’t hesitate to specify alternative source type in case of your visitors browser doesn’t support Media API.
 
 **In downloads you can find a build version of videojs integrating this wrapper.**
+
+But you still need to download DASHR sources and specify to videojs with DASHR_API where it is located like it is said how to be used
 
 Exemple in action on : [http://dashr.option-isia-ecp.fr/](http://dashr.option-isia-ecp.fr/ "http://dashr.option-isia-ecp.fr/")
